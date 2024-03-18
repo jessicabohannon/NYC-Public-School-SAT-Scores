@@ -2,7 +2,7 @@
 ## Python Project Summary: NYC Public School SAT Performance Analysis
 
 ### Overview:
-American high school students take SAT exams annually to assess literacy, numeracy, and writing skills. Analyzing NYC public school SAT performance aids policymakers, educators, researchers, government officials, and parents in decision-making.
+American high school students take SAT exams annually to assess literacy, numeracy, and writing skills. Analyzing NYC public school SAT performance aids policymakers, educators, researchers, government officials, and parents in decision-making. [Click here to view the project.](https://github.com/jessicabohannon/NYC-Public-School-SAT-Scores/blob/main/notebook.ipynb)
 
 ### Python Skills Demonstrated:
 - **Data Manipulation**: Utilized Pandas for loading, preprocessing, filtering, sorting, and summarizing data.
